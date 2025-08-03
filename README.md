@@ -34,7 +34,7 @@ Welcome to my digital space! I'm a multi-talented professional passionate about 
 
 - **Fashion Designing**: Where style meets innovation.
 - **Coding**: Forever passionate about solving problems and building things.
-- **Communication**: “Greatest skill I’ve got is SPEAKING.”
+- **Communication**: “I’ve got great INTUITION Skill.”
 
 ---
 
