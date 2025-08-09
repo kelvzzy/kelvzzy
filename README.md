@@ -4,7 +4,7 @@ Welcome to my digital space! I'm a multi-talented professional passionate about 
 
 ---
 
-## 🛡️ Cybersecurity & Forensics | ☁️ DevOps & Cloud | 📊 Data Science | 👗 Fashion Design
+## 🛡️ Cybersecurity & Forensics | ☁️ DevOps & Cloud | 📊 Data Science |
 
 - **Cybersecurity Digital Forensic Expert**
 - **DevOps & Cloud Architect**
