@@ -4,12 +4,11 @@ Welcome to my digital space! I'm a multi-talented professional passionate about 
 
 ---
 
-## 🛡️ Cybersecurity & Forensics | ☁️ DevOps & Cloud | 📊 Data Science |
+## 🛡️ Cybersecurity & Forensics | ☁️ Cloud & DevOps | 📊 Infrastructure & Automation |
 
 - **Cybersecurity Digital Forensic Expert**
-- **DevOps & Cloud Architect**
-- **Data Scientist**
-- **Fashion Designer**
+- **Cloud Architect & DevOps**
+- **Infrastructure & Automation**
 
 ---
 
@@ -18,21 +17,19 @@ Welcome to my digital space! I'm a multi-talented professional passionate about 
 - **Languages:** Python, JavaScript, R
 - **Frameworks:** Django, Pytorch, Tensorflow
 - **DevOps:** Jenkins, Ansible, Terraform, Kubernetes
-- **Data:** Numpy, Matplotlib
 
 ---
 
 ### 🚀 Featured Projects
 
-- [DevOps Master](https://github.com/kelvzzy/devops-master) – Automating infrastructure with best DevOps practices.
-- [Ethical-ai-auditor](https://github.com/kelvzzy/ethical-ai-auditor) – Auditing AI systems for ethics & fairness.
+- [DevOps Master](https://github.com/kelvzzy/DevOps_servers.git) – Automating infrastructure with best DevOps practices.
+- [KxyZ-Intel](https://github.com/kelvzzy/KxyzAI.git) – Advanced Threat Intelligence Platform
 - [kxyz-crypt.bot](https://github.com/kelvzzy/kxyz-crypt.bot) – Secure crypto bot solutions.
 
 ---
 
 ### 🎨 Beyond Code
 
-- **Fashion Designing**: Where style meets innovation.
 - **Coding**: Forever passionate about solving problems and building things.
 - **Communication**: “I’ve got great INTUITION Skill.”
 
